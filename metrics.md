@@ -5,7 +5,7 @@ published: true
 ---
 
 ###Tolkningsveilder basert på Andres publikasjoner rundt avansert MR i hjernetumordiagnostikk.
-* Basert på følgende artikler:
+* Basert på følgende artikler:*
 
 [Andres 2011: Perfusjon og lekkasje](http://www.ncbi.nlm.nih.gov/pubmed/20857284)
 *
