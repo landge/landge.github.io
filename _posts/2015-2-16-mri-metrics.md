@@ -1,10 +1,11 @@
 ---
+layout: post
+title: MRI-metrics
 published: true
 ---
 
----
-layout: post
-title: MRI-metrics
----
-### Tumorprotokoll cheat-sheet kan finnes Her: 
+### BT3T-cheat-sheet 
+
+Leget en liten jukselapp basert på Andres artikkler.
+Den fnner dere her: 
 [landge.github.io/metrics](BT3T-metrics)
