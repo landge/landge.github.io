@@ -1,6 +1,7 @@
 ---
 layout: page
-title: metrics
+title: Metrics
+published: true
 ---
 
 ###Tolkningsveilder basert på Andres publikasjoner rundt avansert MR i hjernetumordiagnostikk.
