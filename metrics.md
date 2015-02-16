@@ -1,3 +1,8 @@
+---
+layout: page
+title: metrics
+---
+
 ###Tolkningsveilder basert på Andres publikasjoner rundt avansert MR i hjernetumordiagnostikk.
 Basert på følgende artikler:
 
