@@ -6,22 +6,22 @@ published: true
 
 ###rCBVt og mikrovasculær lekkasje (K<sup>2</sup>)
 
-rCBVt og K<sup>2</sup> korrelerer iflg. [denne artiklen](http://www.ncbi.nlm.nih.gov/pubmed/20857284) signifikant med tumorgraden, men rCBVt sterkere enn K<sup>2</sup>. 
-    
+rCBVt og K<sup>2</sup> korrelerer iflg. [denne artiklen](http://www.ncbi.nlm.nih.gov/pubmed/20857284) signifikant med tumorgraden. rCBVt sterkere enn K<sup>2</sup>. 
+
+####Korrelasjonskoeffisient 
 |Parameter|Korrelasjon med tumorgrad|
 |---------|--------|
 |rCBVt|r=0.774|
 |MVL|r=0.559|
 
     
-    Absolute verdier for de enkelte tumorgradene:
-
+####Absolute verdier for de enkelte tumorgradene:
 |Parameter|WHO II|WHO III|WHO IV|WHO III+IV|
 |---------|------|-------|------|----------|
 |rCBVt|2.42 (+/-1.17)|5.46 (+/-2.17)|6.94 (+/-1.6)|6.6(+/-1.84)|
 |K^2|0.64 (+/-0.93)|1.47 (+/-0.86)|2.3 (+/- 1.12)|2.11 (+/- 1.12)|
 
-    Terskelverdier for differensering av enkelte WHO grader:
+####Terskelverdier for differensering av enkelte WHO grader:
 
 |WHO-grad|WHO II vs. III + IV (AUC %)|II vs. III (AUC %)|II vs. IV (AUC %)|III vs. IV (AUC %)|
 |--------|--------|------------|----------|------|
