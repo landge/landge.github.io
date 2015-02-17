@@ -4,26 +4,26 @@ title: "Advanced MR-Metrics"
 published: true
 ---
 
-###Oversikt over signifikante funksjonelle MR-parametre basert på Andres´ publikasjoner.
+###Oversikt over signifikante funksjonelle MR-parametre  basert på Andres´ publikasjoner.
+1. rCBVt og microvascular leakage (K<sup>2</sup>) ga signifikante resultater ved tumorgrading:
 
-#### rCBVt og microvascular leakage ga signifikante resultater ved tumorgrading:
+    >[Andres 2011: Measurements of diagnostic examination performance and correlation analysis using microvascular leakage, cerebral blood volume, and blood flow derived from 3T dynamic susceptibility-weighted contrast-enhanced perfusion MR imaging in glial tumor grading](http://www.ncbi.nlm.nih.gov/pubmed/20857284)
 
-[Andres 2011: Measurements of diagnostic examination performance and correlation analysis using microvascular leakage, cerebral blood volume, and blood flow derived from 3T dynamic susceptibility-weighted contrast-enhanced perfusion MR imaging in glial tumor grading](http://www.ncbi.nlm.nih.gov/pubmed/20857284)
+    **rCBVt og K<sup>2</sub>**
+    
+|Parameter|Korrelasjon med tumorgrad|
+|---------|--------|
+|rCBVt|r=0.774|
+|MVL|r=0.559|
+    
+    **Absolute verdier for de enkelte tumorgradene:**
 
+    |Parameter|WHO II|WHO III|WHO IV|WHO III+IV|
+    |---------|------|-------|------|----------|
+    |rCBVt|2.42 (+/-1.17)|5.46 (+/-2.17)|6.94 (+/-1.6)|6.6(+/-1.84)|
+    |K^2|0.64 (+/-0.93)|1.47 (+/-0.86)|2.3 (+/- 1.12)|2.11 (+/- 1.12)|
 
-|Parameter|Betydning|ResultatKorrelasjon med tumorgrad|
-|---------|---------|--------|
-|rCBVt|normalisert blodvolum i tumor|r=0.774|
-|MVL|MikrovasculC&r lekkasje målt som lekkasjekoeffisient K<sup>2</sup>|r=0.559|
-
-####Absolute verdier for de enkelte tumorgradene:
-
-|Parameter|WHO II|WHO III|WHO IV|WHO III+IV|
-|---------|------|-------|------|----------|
-|rCBVt|2.42 (+/-1.17)|5.46 (+/-2.17)|6.94 (+/-1.6)|6.6(+/-1.84)|
-|K^2|0.64 (+/-0.93)|1.47 (+/-0.86)|2.3 (+/- 1.12)|2.11 (+/- 1.12)|
-
-####Terskelverdier for differensering av enkelte WHO grader:
+    **Terskelverdier for differensering av enkelte WHO grader:**
 
 |WHO-grad|WHO II vs. III + IV (AUC %)|II vs. III (AUC %)|II vs. IV (AUC %)|III vs. IV (AUC %)|
 |--------|--------|------------|----------|------|
