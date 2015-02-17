@@ -4,10 +4,8 @@ title: "Advanced MR-Metrics"
 published: true
 ---
 
-###Oversikt over signifikante funksjonelle MR-parametre  basert på Andres´ publikasjoner.
-1. rCBVt og microvascular leakage (K<sup>2</sup>) ga signifikante resultater ved tumorgrading:
-
-    >[Andres 2011: Measurements of diagnostic examination performance and correlation analysis using microvascular leakage, cerebral blood volume, and blood flow derived from 3T dynamic susceptibility-weighted contrast-enhanced perfusion MR imaging in glial tumor grading](http://www.ncbi.nlm.nih.gov/pubmed/20857284)
+1. rCBVt og mikrovasculær lekkasje (K<sup>2</sup>)
+rCBVt og K<sup>2</sup> korrelerer iflg. [denne artiklen](http://www.ncbi.nlm.nih.gov/pubmed/20857284) signifikant, men rCBVt sterkere enn K<sup>2</sup>. 
 
     rCBVt og K<sup>2</sup>
     
