@@ -4,7 +4,7 @@ title: "Cheat-sheet"
 published: true
 ---
 
-Laget en liten jukselapp basert på Andres artikkler.
-Den fnner dere her:
+Basert på Andres artikler.
+Den ligger her:
 [BT3T-cheat-sheet](http://landge.github.io/metrics).
-Planen er å oppdatere den fortløpende.
+Den kan ansees som første versjon og kommer til å bli oppdatert fortløpende.
