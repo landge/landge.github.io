@@ -14,6 +14,7 @@ rCBVt og K<sup>2</sup> korrelerer iflg. [denne artiklen](http://www.ncbi.nlm.nih
 |rCBVt|r=0.774|
 |MVL|r=0.559|
 
+
     
 ####Absolute verdier for de enkelte tumorgradene:
 |Parameter|WHO II|WHO III|WHO IV|WHO III+IV|
@@ -21,8 +22,9 @@ rCBVt og K<sup>2</sup> korrelerer iflg. [denne artiklen](http://www.ncbi.nlm.nih
 |rCBVt|2.42 (+/-1.17)|5.46 (+/-2.17)|6.94 (+/-1.6)|6.6(+/-1.84)|
 |K^2|0.64 (+/-0.93)|1.47 (+/-0.86)|2.3 (+/- 1.12)|2.11 (+/- 1.12)|
 
-####Terskelverdier for differensering av enkelte WHO grader:
 
+
+####Terskelverdier for differensering av enkelte WHO grader:
 |WHO-grad|WHO II vs. III + IV (AUC %)|II vs. III (AUC %)|II vs. IV (AUC %)|III vs. IV (AUC %)|
 |--------|--------|------------|----------|------|
 |rCBVt|2.935 (97.4)|2.935 (89.7)|4.035 (99.7)|5.325 (71.9)|
