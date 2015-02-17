@@ -4,7 +4,7 @@ title: "Advanced MR-Metrics"
 published: true
 ---
 
-###Oversikt over signifikante funksjonelle MR-parametre basert på Andres´ publikasjoner.
+###Oversikt over signifikante funksjonelle MR-parametre basert pC% AndresB4 publikasjoner.
 
 #### rCBVt og microvascular leakage ga signifikante resultater ved tumorgrading:
 
@@ -14,7 +14,7 @@ published: true
 |Parameter|Betydning|ResultatKorrelasjon med tumorgrad|
 |---------|---------|--------|
 |rCBVt|normalisert blodvolum i tumor|r=0.774|
-|MVL|Mikrovasculær lekkasje målt som lekkasjekoeffisient K^2|r=0.559|
+|MVL|MikrovasculC&r lekkasje mC%lt som lekkasjekoeffisient K<sup>2</sup>|r=0.559|
 
 ####Absolute verdier for de enkelte tumorgradene:
 
@@ -33,7 +33,7 @@ published: true
 
 [Andres: ADC og MRS for hjernetumorgrading](http://www.ncbi.nlm.nih.gov/pubmed/20708868)
 
-####Absolute ADC-verdier målt i de forskjellige WHO gradene
+####Absolute ADC-verdier mC%lt i de forskjellige WHO gradene
 
 |Parameter|WHO II|WHO III+IV|
 |---------|------|----------|
@@ -41,17 +41,17 @@ published: true
 |ADCt max|1.312 +/- 0.210|1.112 +/- 0.312|
 |ADCt mean|1.179 +/- 0.206|0.986 +/- 0.274|
 
-####MRS-ratio målt i de forskjellige WHO gradene
+####MRS-ratio mC%lt i de forskjellige WHO gradene
 
 |Ratio|WHO II|WHO III+IV|p-value|
 |-----|------|----------|-------|
 |Cho/NAA tumor|4.578 +/- 3.319|7.040 +/- 5.743|0.039|
-|Cho/Cr ødem|1.303 +/- 0.463|1.834 +/- 0.835|0.040|
-|Cho/NAA ødem|1.213 +/- 0.481|1.92 +/- 0.706|0.013|
+|Cho/Cr C8dem|1.303 +/- 0.463|1.834 +/- 0.835|0.040|
+|Cho/NAA C8dem|1.213 +/- 0.481|1.92 +/- 0.706|0.013|
 
 [Andres:Diffusion Tensor Metrics for tumorgrading](http://www.ncbi.nlm.nih.gov/pubmed/24457139)
 
-####Målte verdier
+####MC%lte verdier
 
 |Parameter|WHO II|WHO III|WHO IV|WHO III+IV|
 |---------|------|-------|------|----------|
@@ -69,7 +69,7 @@ Parametre som skiller seg ut:
 |Parameter|Betydning|ResultatKorrelasjon med tumorgrad|
 |---------|---------|--------|
 |rCBVt|normalisert blodvolum i tumor|r=0.774|
-|MVL|Mikrovasculær lekkasje målt som lekkasjekoeffisient K^2|r=0.559|
+|MVL|MikrovasculC&r lekkasje mC%lt som lekkasjekoeffisient K^2|r=0.559|
 
 ####Absolute verdier for de enkelte tumorgradene:
 
@@ -88,7 +88,7 @@ Parametre som skiller seg ut:
 
 [Andres: ADC og MRS for hjernetumorgrading](http://www.ncbi.nlm.nih.gov/pubmed/20708868)
 
-####Absolute ADC-verdier målt i de forskjellige WHO gradene
+####Absolute ADC-verdier mC%lt i de forskjellige WHO gradene
 
 |Parameter|WHO II|WHO III+IV|
 |---------|------|----------|
@@ -96,17 +96,17 @@ Parametre som skiller seg ut:
 |ADCt max|1.312 +/- 0.210|1.112 +/- 0.312|
 |ADCt mean|1.179 +/- 0.206|0.986 +/- 0.274|
 
-####MRS-ratio målt i de forskjellige WHO gradene
+####MRS-ratio mC%lt i de forskjellige WHO gradene
 
 |Ratio|WHO II|WHO III+IV|p-value|
 |-----|------|----------|-------|
 |Cho/NAA tumor|4.578 +/- 3.319|7.040 +/- 5.743|0.039|
-|Cho/Cr ødem|1.303 +/- 0.463|1.834 +/- 0.835|0.040|
-|Cho/NAA ødem|1.213 +/- 0.481|1.92 +/- 0.706|0.013|
+|Cho/Cr C8dem|1.303 +/- 0.463|1.834 +/- 0.835|0.040|
+|Cho/NAA C8dem|1.213 +/- 0.481|1.92 +/- 0.706|0.013|
 
 [Andres:Diffusion Tensor Metrics for tumorgrading](http://www.ncbi.nlm.nih.gov/pubmed/24457139)
 
-####Målte verdier
+####MC%lte verdier
 
 |Parameter|WHO II|WHO III|WHO IV|WHO III+IV|
 |---------|------|-------|------|----------|
@@ -124,7 +124,7 @@ Parametre som skiller seg ut:
 |Parameter|Betydning|ResultatKorrelasjon med tumorgrad|
 |---------|---------|--------|
 |rCBVt|normalisert blodvolum i tumor|r=0.774|
-|MVL|Mikrovasculær lekkasje målt som lekkasjekoeffisient K^2|r=0.559|
+|MVL|MikrovasculC&r lekkasje mC%lt som lekkasjekoeffisient K^2|r=0.559|
 
 ####Absolute verdier for de enkelte tumorgradene:
 
@@ -143,7 +143,7 @@ Parametre som skiller seg ut:
 
 [Andres: ADC og MRS for hjernetumorgrading](http://www.ncbi.nlm.nih.gov/pubmed/20708868)
 
-####Absolute ADC-verdier målt i de forskjellige WHO gradene
+####Absolute ADC-verdier mC%lt i de forskjellige WHO gradene
 
 |Parameter|WHO II|WHO III+IV|
 |---------|------|----------|
@@ -151,17 +151,17 @@ Parametre som skiller seg ut:
 |ADCt max|1.312 +/- 0.210|1.112 +/- 0.312|
 |ADCt mean|1.179 +/- 0.206|0.986 +/- 0.274|
 
-####MRS-ratio målt i de forskjellige WHO gradene
+####MRS-ratio mC%lt i de forskjellige WHO gradene
 
 |Ratio|WHO II|WHO III+IV|p-value|
 |-----|------|----------|-------|
 |Cho/NAA tumor|4.578 +/- 3.319|7.040 +/- 5.743|0.039|
-|Cho/Cr ødem|1.303 +/- 0.463|1.834 +/- 0.835|0.040|
-|Cho/NAA ødem|1.213 +/- 0.481|1.92 +/- 0.706|0.013|
+|Cho/Cr C8dem|1.303 +/- 0.463|1.834 +/- 0.835|0.040|
+|Cho/NAA C8dem|1.213 +/- 0.481|1.92 +/- 0.706|0.013|
 
 [Andres:Diffusion Tensor Metrics for tumorgrading](http://www.ncbi.nlm.nih.gov/pubmed/24457139)
 
-####Målte verdier
+####MC%lte verdier
 
 |Parameter|WHO II|WHO III|WHO IV|WHO III+IV|
 |---------|------|-------|------|----------|
@@ -179,7 +179,7 @@ Parametre som skiller seg ut:
 |Parameter|Betydning|ResultatKorrelasjon med tumorgrad|
 |---------|---------|--------|
 |rCBVt|normalisert blodvolum i tumor|r=0.774|
-|MVL|Mikrovasculær lekkasje målt som lekkasjekoeffisient K^2|r=0.559|
+|MVL|MikrovasculC&r lekkasje mC%lt som lekkasjekoeffisient K^2|r=0.559|
 
 ####Absolute verdier for de enkelte tumorgradene:
 
@@ -198,7 +198,7 @@ Parametre som skiller seg ut:
 
 [Andres: ADC og MRS for hjernetumorgrading](http://www.ncbi.nlm.nih.gov/pubmed/20708868)
 
-####Absolute ADC-verdier målt i de forskjellige WHO gradene
+####Absolute ADC-verdier mC%lt i de forskjellige WHO gradene
 
 |Parameter|WHO II|WHO III+IV|
 |---------|------|----------|
@@ -206,17 +206,17 @@ Parametre som skiller seg ut:
 |ADCt max|1.312 +/- 0.210|1.112 +/- 0.312|
 |ADCt mean|1.179 +/- 0.206|0.986 +/- 0.274|
 
-####MRS-ratio målt i de forskjellige WHO gradene
+####MRS-ratio mC%lt i de forskjellige WHO gradene
 
 |Ratio|WHO II|WHO III+IV|p-value|
 |-----|------|----------|-------|
 |Cho/NAA tumor|4.578 +/- 3.319|7.040 +/- 5.743|0.039|
-|Cho/Cr ødem|1.303 +/- 0.463|1.834 +/- 0.835|0.040|
-|Cho/NAA ødem|1.213 +/- 0.481|1.92 +/- 0.706|0.013|
+|Cho/Cr C8dem|1.303 +/- 0.463|1.834 +/- 0.835|0.040|
+|Cho/NAA C8dem|1.213 +/- 0.481|1.92 +/- 0.706|0.013|
 
 [Andres:Diffusion Tensor Metrics for tumorgrading](http://www.ncbi.nlm.nih.gov/pubmed/24457139)
 
-####Målte verdier
+####MC%lte verdier
 
 |Parameter|WHO II|WHO III|WHO IV|WHO III+IV|
 |---------|------|-------|------|----------|
