@@ -4,7 +4,7 @@ title: "Advanced MR-Metrics"
 published: true
 ---
 
-###Oversikt over signifikante funksjonelle MR-parametre basert pC% AndresB4 publikasjoner.
+###Oversikt over signifikante funksjonelle MR-parametre basert på Andres´ publikasjoner.
 
 #### rCBVt og microvascular leakage ga signifikante resultater ved tumorgrading:
 
@@ -14,7 +14,7 @@ published: true
 |Parameter|Betydning|ResultatKorrelasjon med tumorgrad|
 |---------|---------|--------|
 |rCBVt|normalisert blodvolum i tumor|r=0.774|
-|MVL|MikrovasculC&r lekkasje mC%lt som lekkasjekoeffisient K<sup>2</sup>|r=0.559|
+|MVL|MikrovasculC&r lekkasje målt som lekkasjekoeffisient K<sup>2</sup>|r=0.559|
 
 ####Absolute verdier for de enkelte tumorgradene:
 
@@ -106,7 +106,7 @@ Parametre som skiller seg ut:
 
 [Andres:Diffusion Tensor Metrics for tumorgrading](http://www.ncbi.nlm.nih.gov/pubmed/24457139)
 
-####MC%lte verdier
+####Målte verdier
 
 |Parameter|WHO II|WHO III|WHO IV|WHO III+IV|
 |---------|------|-------|------|----------|
