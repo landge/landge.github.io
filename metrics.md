@@ -9,7 +9,7 @@ published: true
 
     >[Andres 2011: Measurements of diagnostic examination performance and correlation analysis using microvascular leakage, cerebral blood volume, and blood flow derived from 3T dynamic susceptibility-weighted contrast-enhanced perfusion MR imaging in glial tumor grading](http://www.ncbi.nlm.nih.gov/pubmed/20857284)
 
-    **rCBVt og K<sup>2</sub>**
+    **rCBVt og K<sup>2</sup>**
     
 |Parameter|Korrelasjon med tumorgrad|
 |---------|--------|
