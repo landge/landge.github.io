@@ -6,7 +6,7 @@ published: true
 
 ##rCBVt og mikrovasculær lekkasje (K<sup>2</sup>)
 
-    rCBVt og K<sup>2</sup> korrelerer iflg. [denne artiklen](http://www.ncbi.nlm.nih.gov/pubmed/20857284) signifikant med tumorgraden, men rCBVt sterkere enn K<sup>2</sup>. 
+rCBVt og K<sup>2</sup> korrelerer iflg. [denne artiklen](http://www.ncbi.nlm.nih.gov/pubmed/20857284) signifikant med tumorgraden, men rCBVt sterkere enn K<sup>2</sup>. 
     
 |Parameter|Korrelasjon med tumorgrad|
 |---------|--------|
