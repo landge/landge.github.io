@@ -21,7 +21,7 @@ rCBVt og K<sup>2</sup> korrelerer signifikant med tumorgraden. rCBVt sterkere en
 |Parameter|WHO II|WHO III|WHO IV|WHO III+IV|
 |---------|------|-------|------|----------|
 |rCBVt|2.42 (+/-1.17)|5.46 (+/-2.17)|6.94 (+/-1.6)|6.6(+/-1.84)|
-|K^2|0.64 (+/-0.93)|1.47 (+/-0.86)|2.3 (+/- 1.12)|2.11 (+/- 1.12)|
+|K<sup>2</sup>|0.64 (+/-0.93)|1.47 (+/-0.86)|2.3 (+/- 1.12)|2.11 (+/- 1.12)|
 
 
 
