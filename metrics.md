@@ -9,7 +9,7 @@ published: true
 
 rCBVt og K<sup>2</sup> korrelerer signifikant med tumorgrad. rCBVt sterkere enn K<sup>2</sup>. 
 
-####Korrelasjonskoeffisient 
+####_Korrelasjonskoeffisient_
 |Parameter|Korrelasjon med tumorgrad|
 |---------|--------|
 |rCBVt|r=0.774|
