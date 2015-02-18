@@ -4,7 +4,7 @@ title: "Advanced MR-Metrics"
 published: true
 ---
 
-##rCBVt og mikrovasculær lekkasje (K<sup>2</sup>)
+##1. rCBVt og mikrovasculær lekkasje (K<sup>2</sup>)
 [Andres 2011:Perfusjon og lekkasje for tumorgrading](http://www.ncbi.nlm.nih.gov/pubmed/20857284)
 
 rCBVt og K<sup>2</sup> korrelerer signifikant med tumorgraden. rCBVt sterkere enn K<sup>2</sup>. 
@@ -31,7 +31,7 @@ rCBVt og K<sup>2</sup> korrelerer signifikant med tumorgraden. rCBVt sterkere en
 |rCBVt|2.935 (97.4)|2.935 (89.7)|4.035 (99.7)|5.325 (71.9)|
 |MVLmax|0.555 (85.9)|0.425 (77.4)|0.575 (88.5)|1.050 (71.9)|
 
-##ADC og MRS
+##2. ADC og MRS
 [Andres 2011: ADC og MRS for hjernetumorgrading](http://www.ncbi.nlm.nih.gov/pubmed/20708868)
 
 ####Absolute ADC-verdier målt i de forskjellige WHO gradene
@@ -50,7 +50,7 @@ rCBVt og K<sup>2</sup> korrelerer signifikant med tumorgraden. rCBVt sterkere en
 |Cho/Cr C8dem|1.303 +/- 0.463|1.834 +/- 0.835|0.040|
 |Cho/NAA C8dem|1.213 +/- 0.481|1.92 +/- 0.706|0.013|
 
-##DTI: ADCt<sub>min</sub>
+##2. DTI: ADCt<sub>min</sub>
 [Andres 2014:Diffusion Tensor Metrics for tumorgrading](http://www.ncbi.nlm.nih.gov/pubmed/24457139)
 
 ####Målte verdier
@@ -59,7 +59,7 @@ rCBVt og K<sup>2</sup> korrelerer signifikant med tumorgraden. rCBVt sterkere en
 |---------|------|-------|------|----------|
 |ADCt min|1.22 +/- 0.2|0.83 +/- 0.15|0.77 +/- 0.12|0.79 +/- 0.13|
 
-#### Treshold ADC verdier
+####Treshold ADC verdier
 
 |Parameter|WHO II vs WHO III|AUC (%)|
 |---------|-----------------|-------|
