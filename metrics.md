@@ -5,7 +5,7 @@ published: true
 ---
 
 ###rCBVt og mikrovasculær lekkasje (K<sup>2</sup>)
-[Andres:](http://www.ncbi.nlm.nih.gov/pubmed/20857284)
+[Andres:Perfusjon og lekkasje for tumorgrading](http://www.ncbi.nlm.nih.gov/pubmed/20857284)
 rCBVt og K<sup>2</sup> korrelerer signifikant med tumorgraden. rCBVt sterkere enn K<sup>2</sup>. 
 
 ####Korrelasjonskoeffisient 
