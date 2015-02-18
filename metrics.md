@@ -50,7 +50,7 @@ rCBVt og K<sup>2</sup> korrelerer signifikant med tumorgraden. rCBVt sterkere en
 |Cho/Cr C8dem|1.303 +/- 0.463|1.834 +/- 0.835|0.040|
 |Cho/NAA C8dem|1.213 +/- 0.481|1.92 +/- 0.706|0.013|
 
-##2. DTI: ADCt<sub>min</sub>
+##3. DTI: ADCt<sub>min</sub>
 [Andres 2014:Diffusion Tensor Metrics for tumorgrading](http://www.ncbi.nlm.nih.gov/pubmed/24457139)
 
 ####Målte verdier
